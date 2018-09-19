@@ -17,6 +17,18 @@
      <ENTRY>Report ZDESAFIO1</ENTRY>
      <LENGTH>16</LENGTH>
     </item>
+    <item>
+     <ID>S</ID>
+     <KEY>VAL1</KEY>
+     <ENTRY>Primeiro Número</ENTRY>
+     <LENGTH>23</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>VAL2</KEY>
+     <ENTRY>Segundo Número</ENTRY>
+     <LENGTH>22</LENGTH>
+    </item>
    </TPOOL>
   </asx:values>
  </asx:abap>
